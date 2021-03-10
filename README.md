@@ -5,13 +5,15 @@ fulfill/rewrite this document (at least, replace everything in `{...}`).
 
 ## Students group
 
-- {Surname Name (in Ukrainian)} {email}
-- ...
-- {Surname Name (in Ukrainian)} {email}
+- Іванов Є.А. {e.g.o35777@gmail.com}
+- Андрієнко В.Р. {andrienkovalera8@gmail.com}
+- Довгаль Я.В. {newwayukr@gmail.com}
+- Люндовський А.О. {knx.here@gmail.com}
+- Давиденко К.І.
 
 ## Design document
 
-The [design document]({Place actual link to the design document Google Docs file here}) that
+The [design document]({https://drive.google.com/file/d/1_yHdgsnT4L1hcTLvfDDVRkM3_RfxwnWq/view?usp=sharing}) that
 describes architecture and implementation details of this project.
 
 ### System structure
